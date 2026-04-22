@@ -1,0 +1,47 @@
+0:00:41 CloseTab_NoAlertIndicator
+0:00:41 Browser1 Close Tab1 at 0
+0:00:43 Back
+0:00:49 Extensions.Toolbar.MenuOpened
+0:00:53 Extensions.Toolbar.MoreActionsButtonPressedFromMenu
+0:00:55 Widget Closed: MenuHost
+0:00:59 Extensions.Toolbar.MoreActionsButtonPressedFromMenu
+0:01:00 Widget Closed: MenuHost
+0:01:01 Widget Closed: ExtensionsMenuView
+0:01:04 Widget Closed: TooltipAura
+0:01:04 OmniboxInputInProgress
+0:01:10 LoadURL
+0:01:10 Tab2 StartNav38 #typed
+0:01:10 Tab2 FinishNav38
+0:01:10 Tab2 PageLoad
+0:01:10 Widget Closed: RoundedOmniboxResultsFrameWindow
+0:01:13 TextSelectionChanged
+0:01:14 Extensions.Toolbar.MenuOpened
+0:01:16 Extensions.Toolbar.ExtensionActivatedFromMenu
+0:01:16 Widget Closed: ExtensionsMenuView
+0:01:20 Tab3 StartNav40 #auto_bookmark
+0:01:20 Widget Closed: StatusBubble
+0:01:20 Browser1 Insert active Tab3 at 1
+0:01:20 Widget Closed: ExtensionPopup
+0:01:21 Tab3 FinishNav40
+0:01:21 Tab3 PageLoad
+0:01:26 Widget Closed: 
+0:01:27 Widget Closed: 
+0:01:27 TextSelectionChanged
+0:01:31 Browser1 Switch from Tab3 to Tab2 at 0
+0:01:31 SwitchTab_Click
+0:01:33 Extensions.Toolbar.MenuOpened
+0:01:34 Extensions.Toolbar.ExtensionActivatedFromMenu
+0:01:34 Widget Closed: ExtensionsMenuView
+0:01:45 Widget Closed: ExtensionPopup
+0:01:45 TextSelectionChanged
+0:01:46 Extensions.Toolbar.MenuOpened
+0:01:47 Widget Closed: ExtensionsMenuView
+0:01:48 Extensions.Toolbar.MenuOpened
+0:01:49 Widget Closed: ExtensionsMenuView
+0:01:49 Extensions.Toolbar.MenuOpened
+0:01:51 Widget Closed: ExtensionsMenuView
+0:01:51 ShowAppMenu
+0:01:53 Widget Closed: MenuHost
+0:01:53 Widget Closed: MenuHost
+0:01:53 TextSelectionChanged
+0:01:56 Tab3 RenderProcessGone

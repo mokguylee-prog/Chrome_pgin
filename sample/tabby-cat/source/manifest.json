@@ -1,0 +1,19 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+	"manifest_version": 3,
+	"name": "Tabby Cat",
+	"version": "3.0.0",
+	"description": "A new friend in every tab.",
+	"author": "Leslie Zacharkow",
+	"offline_enabled": true,
+	"icons": {
+		"128": "icon128.png"
+	},
+	"chrome_url_overrides" : {
+		"newtab": "public/index.html"
+	},
+	"permissions": [
+		"storage"
+	]
+}

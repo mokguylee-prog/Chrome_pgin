@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  background: #f5f6f8;
+}
+
+.card {
+  width: 320px;
+  padding: 16px;
+}
+
+h1 {
+  margin: 0 0 10px;
+  font-size: 18px;
+}
+
+.muted {
+  margin: 0 0 12px;
+  color: #666;
+  font-size: 12px;
+}
+
+button {
+  width: 100%;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 8px;
+  font-size: 14px;
+  cursor: pointer;
+  background: #0f62fe;
+  color: #fff;
+}
+
+button.secondary {
+  background: #dde1e6;
+  color: #161616;
+}
+
+.status {
+  min-height: 18px;
+  margin: 6px 0 0;
+  font-size: 12px;
+  color: #0f62fe;
+}
+
