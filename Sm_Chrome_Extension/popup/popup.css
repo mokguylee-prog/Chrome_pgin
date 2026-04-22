@@ -36,6 +36,10 @@ button {
   color: #fff;
 }
 
+button.capture {
+  background: #198038;
+}
+
 button.secondary {
   background: #dde1e6;
   color: #161616;
@@ -47,4 +51,3 @@ button.secondary {
   font-size: 12px;
   color: #0f62fe;
 }
-

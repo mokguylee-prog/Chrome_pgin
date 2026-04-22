@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "SMLEE Extension",
-  "description": "이상목이만든 테스트 크롬-익스텐션",
-  "version": "0.1.0",
+  "description": "이상목이만든 테스트 크롬-익스텐션 (페이지 하이라이트 + 화면 캡처 저장)",
+  "version": "0.1.1",
   "action": {
     "default_title": "SMLEE Extension",
     "default_popup": "popup/popup.html"
@@ -11,7 +11,7 @@
     "service_worker": "background.js"
   },
   "options_page": "options/options.html",
-  "permissions": ["storage", "activeTab"],
+  "permissions": ["storage", "activeTab", "downloads"],
   "host_permissions": ["<all_urls>"],
   "content_scripts": [
     {
